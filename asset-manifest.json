@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PremierExotics/static/css/main.a2ac5384.css",
+    "main.js": "/PremierExotics/static/js/main.3265450e.js",
+    "static/js/453.3c3c57d0.chunk.js": "/PremierExotics/static/js/453.3c3c57d0.chunk.js",
+    "index.html": "/PremierExotics/index.html",
+    "main.a2ac5384.css.map": "/PremierExotics/static/css/main.a2ac5384.css.map",
+    "main.3265450e.js.map": "/PremierExotics/static/js/main.3265450e.js.map",
+    "453.3c3c57d0.chunk.js.map": "/PremierExotics/static/js/453.3c3c57d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2ac5384.css",
+    "static/js/main.3265450e.js"
+  ]
+}
